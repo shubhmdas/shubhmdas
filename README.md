@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shubham Das
-- 👀 I’m interested in Full Stack Development and Mobile App Development
+- 👀 I’m interested in Full Stack Development and Flutter Development
 - 🌱 I’m currently learning Django
 - 📫 How to reach me Phone: +91 96932 13436, Email: skshubhamdas@gmail.com
 
